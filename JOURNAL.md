@@ -25,8 +25,8 @@
 
 ## 11/4/2025 4:14 PM - Completed the 3D Computer Aided Design on Autodesk Fusion  
 
-- Utilized Autodesk Fusion to create a 3D Design of our Final Sketch of the launcher
-- Ensured precision in measurement and material choice through the 3D Model to allow for correct dimensions in 3D printing
+- Utilized Autodesk Fusion to create a 3D Design of our initial Sketch of the launcher
+- Ensured precision in measurement and material choice (PLA) through the 3D Model to allow for correct dimensions in 3D printing
 - Next step will be to 3D Print and test the launcher.![3DDesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4229313beeae929d1a570a9de8291a389386e085/3DDesign.jpg)
   
 
