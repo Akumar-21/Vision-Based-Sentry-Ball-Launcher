@@ -23,7 +23,7 @@
 
   
 
-## 11/4/2025 4:14 PM - Completed the 3D Computer Aided Design on Autodesk Fusion  
+## 11/4/2025 4:14 PM - 1st Prototype 3D Computer Aided Design on Autodesk Fusion  
 
 - Utilized Autodesk Fusion to create a 3D Design of our initial Sketch of the launcher
 - Ensured precision in measurement and material choice (PLA) through the 3D Model to allow for correct dimensions in 3D printing
