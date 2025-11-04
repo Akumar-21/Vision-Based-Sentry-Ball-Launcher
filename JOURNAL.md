@@ -14,12 +14,19 @@
 
   
 
-## 11/4/2025 - Final Design Sketch  
+## 11/4/2025 4:10 PM - Final Design Sketch  
 
 - Finalzed the design for the launcher and made a sketch with correspodning measurement values
 - Identified clear material and measurement choices to tranlate sketch into real life
 - Next step will be to translate this sketch into a Computer Aided 3D Design
 ![entry2sketch](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--822abcfd4c38d4874e9928c2112d9050abc9473b/entry2sketch.jpg)
 
+  
+
+## 11/4/2025 4:14 PM - Completed the 3D Computer Aided Design on Autodesk Fusion  
+
+- Utilized Autodesk Fusion to create a 3D Design of our Final Sketch of the launcher
+- Ensured precision in measurement and material choice through the 3D Model to allow for correct dimensions in 3D printing
+- Next step will be to 3D Print and test the launcher.![3DDesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4229313beeae929d1a570a9de8291a389386e085/3DDesign.jpg)
   
 
