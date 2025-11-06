@@ -53,6 +53,10 @@
 - Tested the ball launcher for issues that arose during prototype 1 testing aswell as launching success
 - The connector piece withstood the high speeds of the motor and passed the stress test during launching
 - The hole placement was correct and the correct screws were able to fit with ease in the correct positions that allowed for the launcher to be a stable unit
-- The launcher effectively launched the gopher balls to the required distance and height making the prototype successful, rendering it our last iteration for the foreseeable future.![prototype2test](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--14115fae751f50ef1a84e92706dbc45a46680c4b/prototype2test.jpg)
+- The launcher effectively launched the gopher balls to the required distance and height making the prototype successful for its shooting purpose, rendering it our last iteration for the shooting portion of the mechanism.
+- The next step is to add the sentry portion of the launcher that will allow for the launcher to be positioned correctly at the target automatically.
+![prototype2test](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--cb482941d85759373e767a280f49cda4f13ca030/prototype2test.jpg)
+
+
   
 
