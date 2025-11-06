@@ -30,3 +30,11 @@
 - Next step will be to 3D Print and test the launcher.![3DDesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4229313beeae929d1a570a9de8291a389386e085/3DDesign.jpg)
   
 
+## 11/5/2025 - Testing 1st Prototype of Ball Launcher  
+
+- Tested ball launcher for various success factors such as ball launch distance, durability(snapping and breaking), and practicality(hole spacing)
+- With testing we determined that the first prototype had many flaws that prevented its success, some of which include a high level of fragility in the connector piece in which the 3D print snapped
+- Additionally, the first prototype had issues with practicality and implementation as the hole spacing was incorrect on the 3D Design, specifically on the connector piece which lead to an instable launcher as a unit.
+- The next step is to resolve these issues on Autodesk Fusion to create the 2nd Prototype![1stprototype](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee2569a0ea23b81b1e1e55f669ebf989b3043084/1stprototype.jpg)
+  
+
