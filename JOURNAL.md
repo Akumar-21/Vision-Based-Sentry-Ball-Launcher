@@ -30,11 +30,21 @@
 - Next step will be to 3D Print and test the launcher.![3DDesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4229313beeae929d1a570a9de8291a389386e085/3DDesign.jpg)
   
 
-## 11/5/2025 - Testing 1st Prototype of Ball Launcher  
+## 11/5/2025 7:36 PM - Testing 1st Prototype of Ball Launcher  
 
 - Tested ball launcher for various success factors such as ball launch distance, durability(snapping and breaking), and practicality(hole spacing)
 - With testing we determined that the first prototype had many flaws that prevented its success, some of which include a high level of fragility in the connector piece in which the 3D print snapped
 - Additionally, the first prototype had issues with practicality and implementation as the hole spacing was incorrect on the 3D Design, specifically on the connector piece which lead to an instable launcher as a unit.
 - The next step is to resolve these issues on Autodesk Fusion to create the 2nd Prototype![1stprototype](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee2569a0ea23b81b1e1e55f669ebf989b3043084/1stprototype.jpg)
+  
+
+## 11/5/2025 7:55 PM - 2nd Prototype 3D Computer Aided Design on Autodesk Fusion  
+
+- Utilized Autodesk Fusion to edit the previous prototype 1 design to implement the changes to resolve the issues that arose during testing of prototype 1.
+- Changed the connecter piece to be sturdier with a more rigid structure
+- Added increased the number of shells and a higher infill density to protect from snapping while still maintaining a lightweight and compact structure.
+- Corrected the hole positions on the connector piece to have a higher tolerance in the correct positions
+- Next step will be to 3D Print and test this new design (Prototype 2).![2ndprototypeCAD](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--259f0155bffa43998b0e9a6c1c138c902124de3d/2ndprototypeCAD.jpg)![connectorpiece](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--74d576b639e9415beb5a66f59cca8d97805f7de6/connectorpiece.jpg)
+
   
 
