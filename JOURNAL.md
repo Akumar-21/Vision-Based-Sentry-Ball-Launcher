@@ -48,3 +48,11 @@
 
   
 
+## 11/5/2025 8 PM - Testing 2nd Prototype of Ball Launcher  
+
+- Tested the ball launcher for issues that arose during prototype 1 testing aswell as launching success
+- The connector piece withstood the high speeds of the motor and passed the stress test during launching
+- The hole placement was correct and the correct screws were able to fit with ease in the correct positions that allowed for the launcher to be a stable unit
+- The launcher effectively launched the gopher balls to the required distance and height making the prototype successful, rendering it our last iteration for the foreseeable future.![prototype2test](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--14115fae751f50ef1a84e92706dbc45a46680c4b/prototype2test.jpg)
+  
+
